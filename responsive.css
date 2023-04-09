@@ -1,0 +1,340 @@
+/*******************************************************
+    Template Name    : Pure Organic - Farming and Agriculture HTML5 Landing Page Template
+*******************************************************/
+
+
+
+@media only screen and (max-width: 1200px) {
+	
+
+	body {
+		background-color: #FFF !important;
+	}
+
+	.v video{width: 100%;height: auto;}
+	
+	.v{display: inline-block;height: auto!important;
+		background-color: inherit!important;
+		background-image: none!important;
+	}
+	
+	.logoo h1{
+		padding-top: 0!important;
+    margin-right: 0!important;
+    float: right;
+    width: 100%!important;
+    font-size: 50px;
+    color: #02457A;
+	}
+	.logoo{
+        height: auto!important; width: 100%;
+        background-color: white;
+		text-align: center;
+		display: inline-block;
+    }
+
+	.greenhydeo h1{
+		background: #acd6f2;
+    padding-top:5px!important; 
+    padding-left: 0!important; 
+	border-radius: 4px;
+	}
+
+	.greenhydeo .box1 p{
+		width: 50%;
+    padding: 10px;
+    border-radius: 6px;
+    background: #acd6f2;
+    float: right;
+	}
+
+	.logoo img{}
+
+	.sec1{display: inline-block!important;padding-top: 20px!important;height: auto!important;width:100%!important;}
+	.sec1 h1{
+		text-align: center !important;
+    font-size: 22px!important;
+	}
+	.sec1 p{
+		overflow: hidden!important;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    float: none;
+    padding: 5px;
+    line-height: 2.1;
+	}
+
+	.sec1 pre{display: none;}
+
+	.greenhydeo{
+		height: auto!important;
+		padding-left: 0 !important;
+		padding: 10px!important;
+		display: inline-block;
+    margin: 5px 0;
+	background-size: inherit!important;
+	}
+	.greenhydeo .box1 p{text-align: center;line-height: 2;font-weight: bolder;}
+
+	.greenhydeo .box1 pre{display: none;}
+
+	.greenhydeoIcons{height: auto!important;    font-size: 16px!important;}
+
+	.sec2{height: auto!important;display: inline-block; padding: 10px!important;margin: 10px 0;}
+	.sec2 h1{
+		margin-left: 0!important;
+    font-size: 33px!important;
+    border-top: none!important;
+	}
+
+
+	.sec1 p, .sec2 .d p, .sec2 figure p, .sec2Prodact p, .greenhydeo .box1 p
+	{display: inline-block!important;}
+
+	.sec2 .d pre{
+		display: none;
+	}
+
+	.sec2Prodact img{width: 100%;}
+
+	.sec2 figure{
+    height: auto!important;
+    float: right!important;
+    width: 55%!important;
+	}
+
+	.sec2 figure img{
+		width: 100% !important;
+		}
+
+		#tec{width: 40%!important;float: left!important;}
+
+	.sec2 figure pre{
+		display: none;
+		}
+
+	figcaption{padding: 5px !important;line-height: 2;}
+
+
+	.sec2Prodact{height: auto!important;
+		border-left: none!important;
+	display: inline-block;
+	margin: 10px 0;
+	}
+	.sec2Prodact h1{font-size: 33px;}
+
+	.sec2Prodact pre{display: none;}
+
+	.sec2Pic{
+		height: auto!important;
+    border-left: none!important;
+	display: inline-block;
+	overflow: hidden;
+	margin: 10px 0;
+	}
+
+	.sec2Pic img{
+		width: 100%;
+	}
+
+	.sec3{height: auto !important; margin: 10px 0;}
+	.sec3 .title{margin: 0!important;}
+	
+	.sec3 .dv-img  {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 100% !important;
+		min-height: 200px !important;
+		max-height: 800px !important;
+	}
+	.sec3 .dv-img .special-img {
+		padding-bottom: 0 !important;
+		height: auto !important;
+	}
+	.sec3 ul {
+		width: 100% !important;
+		padding-top: 0 !important;
+	}
+
+	.sec4{
+		height: auto!important;
+		display: inline-block;
+		width: 100%;
+		position: relative;
+    top: -10px;
+	padding-top: 0!important;
+	}
+
+	.sec4 h1 {
+	}
+
+	footer{height: auto!important;text-align: center;padding: 10px; margin-top: -10px;}
+
+	footer p{height: auto!important;}
+
+
+
+
+
+
+
+
+
+
+	.first h1{padding-top: 27%!important;}
+
+	#mainNav{direction: ltr!important;}
+
+	.blog-item .blog-icon{width: 50%;}
+
+	.blog-item .blog-title{width: 50%;}
+
+	.about .icon{display: none;}
+
+	.vision-img{
+    float: none;
+    height: auto;
+	}
+
+	.vision-img i{font-size: 200px;}
+
+
+	.mission-img{
+		float: none;
+    height: auto;
+	}
+
+	.mission-img i{font-size: 190px;}
+
+	.vision{height: auto;padding-top: 0;padding: 20px;float: none;}
+
+	.mission{height: auto;padding-top: 0;padding: 20px;float: none;}
+
+	.mission h2, .vision h2{font-size: 35px;text-align: center;margin: 20px 45px 20px 0;}
+	.mission p, .vision p{font-size: 18px;text-align: center;width: auto;margin-right: 0;margin: 20px auto;}
+
+	.one, .two, .three{text-align: center;}
+
+	.footer-area .social{display: inline-block;}
+
+	.footer-area .social p{
+    padding: 16px;
+    background: #333;
+    border-radius: 30px;
+	margin: 5px;
+	display: inline-block;
+	}
+
+	.edit-p{width: 100%;text-align: center;}
+
+	.show-in-mobile{
+		display: block;
+	}
+	.show-in-desktop{
+		display: none;
+	}
+	.navbar-b.navbar-trans{
+		height: 80px;
+	}
+	.navbar-b.navbar-trans>.container, .navbar-b.navbar-trans>.container-fluid{
+		text-align: left;
+	}
+	.about-area{
+		background-size: 0;
+	}
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.header-navber-area .nav-top-bar {
+		display: none;
+	}
+	#navbarDefault {
+		height: 303px;
+	    overflow-y: scroll;
+		width: 100%;
+	}
+	.home-area {
+		padding-top: 130px;
+	}
+	.slider .parallax-slider .caption{
+		margin-top: 50px;
+	}
+	.slider .parallax-slider .caption h2{
+		font-size: 30px;
+	}
+	.home-area .home-content h1 {
+		font-size: 65px;
+	}
+	/* slider */
+	.slider .parallax-slider .caption h1 {
+		font-size: 65px;
+		line-height: 60px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.slider .control-text .swiper-nav-ctrl {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.about-content h2{
+		font-size: 30px;
+	}
+	.menu-day-product-content .menu-day-tab-list li {
+		padding: 10px 15px;
+		margin: 15px 0;
+		border: 0;
+	}
+	.menu-day-product-content .menu-day-tab-list li a {
+		font-size: 16px;
+	}
+	.reservation-area h2 {
+		font-size: 35px;
+		margin-bottom: 0;
+	}
+	.gallery-area .gallery-list .nav li {
+		margin: 10px 10px;
+	}
+	.single-press-content {
+		/*padding: 15px 0;*/
+		margin-bottom: 15px;
+	}
+	.single-press-content h3 {
+		padding-bottom: 15px;
+	}
+	.contact-box {
+		margin-bottom: 30px;
+	}
+	.form-container-box {
+		padding: 25px 15px;
+		margin-top: 30px;
+	}
+	.footer-area {
+		text-align: center;
+	}
+	.footer-area .footer-link ul {
+		margin-top: 10px;
+		text-align: center;
+		list-style-type: none;
+	}
+	#navbarDefault{
+		/*height: auto !important;
+		overflow-y:hidden !important;*/
+		background:#fff;
+	}
+	.header-chef-image img{
+		max-width: 200px;
+	}
+	.navbar-nav {
+	    margin-top: 85px;
+	}
+	.book-now a{
+		display: inline-block;
+	}
+	.reservation-area .text-right{
+		text-align: left !important;
+	}
+}
+
+
